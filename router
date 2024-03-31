@@ -1,0 +1,12 @@
+Routers;
+
+import {BrowserRouter, Routes,Route } from 'react-router-dom';
+
+<BrowserRouter>
+ <Navbar/>
+<Routes>
+   <Route path='/' element={<Shop/>}
+   <Route path='/' element={<ShopCategory}/>
+   <Route path='/' element={<ShopCategory}/>
+</Routes>
+</BrowserRoutes>
